@@ -1,10 +1,9 @@
 ---
 title: My First Post
 date: 2023-10-07 20:29:19
-tags: ["Test", "Blessed"]
+tags: ["Blessed" , "The Start"]
 ---
 
-## Welcome
 This is my first blog! So far this is just a test blog post.
 
 ### About my blog
