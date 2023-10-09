@@ -1,0 +1,13 @@
+- links_category: Best Buds
+  has_thumbnail: true
+  list: 
+    - name: Zaymes' Portfolio
+      link: https://readisec.com/
+      description: This is my best bud Zaymes' portfolio, would hugely suggest looking into it.
+      avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLZKplVD40N9wL4ZZgKFmEeoYx4zPjPKUFgDCY27yRHczTweodXKhR26nHKU9gIb-Me74&usqp=CAU
+      thumbnail: https://raw.githubusercontent.com/JaredKIso/Random-stuff/main/ZaymesThumbnail.png # has_thumbnail 为 true 时才需要
+    - name: Oracle's Portfolio
+      link: https://www.instagram.com/oraclegenesis00
+      description: My best bud Oracle's photography portfolio! He take some pretty amazing pictures, would highly suggest checking him out.
+      avatar: https://raw.githubusercontent.com/JaredKIso/Random-stuff/main/OraclePfP.png
+      thumbnail: https://raw.githubusercontent.com/JaredKIso/Random-stuff/main/OracleThumbnail.png

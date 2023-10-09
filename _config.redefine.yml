@@ -106,7 +106,7 @@ home_banner:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title: Jareds Blog
+  title: Jared's Blog
   # Home banner subtitle
   subtitle:
     text: ["My blog", "My life", "My Story", "My Projects", "etc..."] # subtitle text, array
@@ -182,7 +182,7 @@ navbar:
         Me: https://jarediso.dev/
         Github: https://github.com/JaredKIso
         Blog: https://jarediso.com
-        Friends: /friends
+        Friends: /links/
     # Links: 
     #   icon: fa-regular fa-link
     #   submenus:
@@ -206,7 +206,7 @@ home:
     enable: true # Whether to enable sidebar
     position: left # Sidebar position. left, right
     first_item: menu # First item in sidebar. menu, info
-    announcement: # Announcement text
+    announcement: Momento Mori # Announcement text
     links:
       Archives: 
         path: /archives 
@@ -275,7 +275,7 @@ articles:
     # Whether to enable article recommendation
     enable: false
     # Article recommendation title
-    title: 推荐阅读
+    title: 
     # Max number of articles to display
     limit: 3
     # Max number of articles to display mobile
