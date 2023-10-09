@@ -4,8 +4,8 @@
 
 # Site
 title: Jared's Blog
-subtitle: ''
-description: ''
+subtitle: 'Loading...'
+description: 'My blog of bloggening'
 keywords:
 author: Jared Kell
 language: en
@@ -13,7 +13,7 @@ timezone: 'MST'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://www.jarediso.com
+url: https://blog.jarediso.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
